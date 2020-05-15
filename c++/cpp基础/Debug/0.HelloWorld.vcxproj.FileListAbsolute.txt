@@ -1,0 +1,4 @@
+C:\Users\15122\Desktop\2020study\c++\0.HelloWorld\Debug\0.HelloWorld.exe
+C:\Users\15122\Desktop\2020study\c++\0.HelloWorld\Debug\0.HelloWorld.pdb
+C:\Users\15122\Desktop\2020study\c++\cpp基础\Debug\cpp基础.exe
+C:\Users\15122\Desktop\2020study\c++\cpp基础\Debug\cpp基础.pdb
