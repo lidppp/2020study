@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main() {
+int main13() {
 	/*
 		自我理解: cpp需要分配相同的内存空间 所以行数可以不输入但是列数必须输入 
 

@@ -1,4 +1,0 @@
-﻿d:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(0.HelloWorld.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  13-二维数组.cpp
-C:\Users\15122\Desktop\2020study\c++\cpp基础\13-二维数组.cpp(21,6): warning C4101: “arr”: 未引用的局部变量
-  0.HelloWorld.vcxproj -> C:\Users\15122\Desktop\2020study\c++\cpp基础\Debug\cpp基础.exe
